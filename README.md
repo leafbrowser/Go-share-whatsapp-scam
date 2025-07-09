@@ -49,4 +49,3 @@ graph TD
     C --> D[Scammers gain full WhatsApp access]
     D --> E[Account used for spam/fraud]
     E --> F[WhatsApp ban + Potential data theft]
-# 🚨 Go Share WhatsApp Scam Alert in India
