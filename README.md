@@ -1,4 +1,15 @@
-# Go-share-whatsapp-scam
+<!-- SEO Meta Tags -->
+<meta name="description" content="Protect yourself from Go Share WhatsApp scam in India. Fake earning app steals WhatsApp accounts through QR code hijacking. Learn how to avoid this fraud">
+<meta name="keywords" content="go share scam, whatsapp fraud india, qr code scam, cyber security india, online earning fraud, whatsapp hacking">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="Go Share WhatsApp Scam Alert in India">
+<meta property="og:description" content="Official warning about fake Go Share WhatsApp earning app scam targeting Indian users">
+<meta property="og:image" content="https://raw.githubusercontent.com/yourusername/repo-name/main/scam-alert-preview.png">
+<meta property="og:url" content="https://github.com/yourusername/go-share-scam-alert">
+<meta property="og:type" content="website">
+
 # 🚨 Go Share WhatsApp Scam Alert (India)
 
 > **Warning**  
@@ -38,3 +49,4 @@ graph TD
     C --> D[Scammers gain full WhatsApp access]
     D --> E[Account used for spam/fraud]
     E --> F[WhatsApp ban + Potential data theft]
+# 🚨 Go Share WhatsApp Scam Alert in India
